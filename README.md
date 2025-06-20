@@ -30,15 +30,15 @@ El proyecto sigue una arquitectura de componentes típica de React:
 
 ```
 pokemon-info/
-├── public/                 # Recursos públicos
-├── src/                   # Código fuente principal
-│   ├── components/        # Componentes reutilizables
+├── public/                 
+├── src/                   
+│   ├── components/       
 │   │   └── PokemonCard.jsx
-│   ├── App.jsx            # Componente principal
-│   ├── main.jsx           # Punto de entrada
-├── index.html             # HTML principal
-├── package.json           # Dependencias y scripts
-├── vite.config.js         # Configuración de Vite
+│   ├── App.jsx           
+│   ├── main.jsx           
+├── index.html            
+├── package.json           
+├── vite.config.js         
 └── README.md
 ```
 
